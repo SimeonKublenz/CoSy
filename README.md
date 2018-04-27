@@ -1,2 +1,2 @@
 # CoSy
-Cognitive System with counts element in an 2D array
+Cognitive System which counts element in an 2D array
